@@ -1,0 +1,5 @@
+# This file keeps the outputs directory in git
+# Generated outputs will be saved here:
+# - confusion_matrix.png
+# - confidence_analysis.png
+# - sample_predictions.png
