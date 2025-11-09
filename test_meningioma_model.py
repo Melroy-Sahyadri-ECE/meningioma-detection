@@ -19,7 +19,10 @@ import os
 import time
 
 # Configuration
+# UPDATE THIS PATH TO YOUR DATASET LOCATION
 DATASET_PATH = r"C:\Users\Melroy Quadros\Brain-Tumor-Classification-DataSet-master"
+# Or use: DATASET_PATH = "path/to/your/dataset"
+
 MODEL_PATH = "best_meningioma_model.pth"
 IMAGE_SIZE = 224
 

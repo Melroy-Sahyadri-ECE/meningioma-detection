@@ -24,7 +24,10 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Configuration
+# UPDATE THIS PATH TO YOUR DATASET LOCATION
 DATASET_PATH = r"C:\Users\Melroy Quadros\Brain-Tumor-Classification-DataSet-master"
+# Or use: DATASET_PATH = "path/to/your/dataset"
+
 IMAGE_SIZE = 224
 BATCH_SIZE = 32
 NUM_WORKERS = 4
