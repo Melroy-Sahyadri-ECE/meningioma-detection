@@ -23,7 +23,7 @@ import time
 DATASET_PATH = r"C:\Users\Melroy Quadros\Brain-Tumor-Classification-DataSet-master"
 # Or use: DATASET_PATH = "path/to/your/dataset"
 
-MODEL_PATH = "best_meningioma_model.pth"
+MODEL_PATH = "models/best_meningioma_model.pth"
 IMAGE_SIZE = 224
 
 class BrainTumorClassifier(nn.Module):
